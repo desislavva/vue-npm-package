@@ -2,8 +2,9 @@
 
 ## Install
 
+```bash
 npm install --save vue-test-packageeee-dp
-
+```
 
 ## Use package
 
